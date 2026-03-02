@@ -1,0 +1,21 @@
+user_id,timestamp,age_range,education_level,english_proficiency,ai_usage_frequency,ai_familiarity_score
+user_20260222_140003,2026-02-22T14:02:28.793370,45+,Other,English is not my primary language,Occasionally,3
+user_20260222_142502,2026-02-22T14:37:19.772157,45+,Postgraduate student,English is not my primary language,Occasionally,1
+user_20260223_162027,2026-02-23T16:20:41.038966,35-44,Working professional,English is my primary working language,Daily,3
+user_20260225_042837,2026-02-25T04:28:57.245007,45+,Working professional,English is my primary working language,Daily,3
+user_20260225_043327,2026-02-25T04:33:56.828976,18-24,Undergraduate student,English is my first language,Daily,5
+user_20260225_050349,2026-02-25T05:04:31.257163,18-24,Undergraduate student,English is my first language,Daily,4
+user_20260228_095616,2026-02-28T09:56:34.264734,18-24,Undergraduate student,English is my primary working language,Daily,4
+user_20260228_103421,2026-02-28T10:35:21.266507,18-24,Working professional,English is my primary working language,Occasionally,3
+user_20260228_104123,2026-02-28T10:42:03.915654,25-34,Working professional,English is my primary working language,Occasionally,3
+user_20260228_105721,2026-02-28T10:58:27.725672,35-44,Working professional,English is my primary working language,Daily,5
+user_20260228_112920,2026-02-28T11:30:37.320995,35-44,Working professional,English is my first language,Occasionally,3
+user_20260228_132659,2026-02-28T13:27:54.034216,35-44,Working professional,English is my primary working language,Daily,5
+user_20260228_134755,2026-02-28T13:48:51.504594,35-44,Postgraduate student,English is my primary working language,Daily,2
+user_20260301_014641,2026-03-01T01:48:00.748725,35-44,Working professional,English is my primary working language,Daily,3
+user_20260301_030143,2026-03-01T03:02:43.686637,35-44,Working professional,English is my primary working language,Daily,5
+user_20260301_050659,2026-03-01T05:07:21.726522,45+,Postgraduate student,English is not my primary language,Daily,5
+user_20260301_162359,2026-03-01T16:28:11.317865,25-34,Working professional,English is my primary working language,Daily,5
+user_20260302_085105,2026-03-02T08:51:24.816717,35-44,Working professional,English is my primary working language,Daily,4
+user_20260302_095330,2026-03-02T09:55:37.821860,35-44,Working professional,English is my first language,Daily,3
+user_20260302_113844,2026-03-02T11:39:23.877220,35-44,Other,English is my primary working language,Daily,5
