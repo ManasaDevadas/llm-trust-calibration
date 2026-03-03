@@ -89,6 +89,5 @@ To systematically measure:
 03 → Run calibration & alignment analysis
 ```
 
----
 
-If you want, I can now compress this even further into a **minimal 10-line version**, suitable for a very clean research repo.
+
