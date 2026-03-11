@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="860" viewBox="0 0 480 860" font-family="Georgia, 'Times New Roman', serif">
+
+  <!-- Background -->
+  <rect width="480" height="860" fill="#ffffff"/>
+
+  <!-- ── Box 1: Datasets ── -->
+  <rect x="90" y="15" width="300" height="65" rx="7" ry="7"
+        fill="#EEF2FF" stroke="#4F46E5" stroke-width="1.8"/>
+  <text x="240" y="41" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#1E1B4B">Datasets</text>
+  <text x="240" y="61" text-anchor="middle" font-size="11" fill="#3730A3">(CoS-E, e-SNLI, TruthfulQA)</text>
+
+  <!-- Arrow 1 -->
+  <line x1="240" y1="80" x2="240" y2="105" stroke="#4F46E5" stroke-width="1.8"/>
+  <polygon points="240,112 234,100 246,100" fill="#4F46E5"/>
+
+  <!-- ── Box 2: Mistral ── -->
+  <rect x="90" y="112" width="300" height="65" rx="7" ry="7"
+        fill="#FDF4FF" stroke="#7C3AED" stroke-width="1.8"/>
+  <text x="240" y="138" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#3B0764">Mistral-7B-Instruct Inference</text>
+  <text x="240" y="160" text-anchor="middle" font-size="11" fill="#6D28D9">(prompt conditions)</text>
+
+  <!-- Arrow 2 -->
+  <line x1="240" y1="177" x2="240" y2="202" stroke="#4F46E5" stroke-width="1.8"/>
+  <polygon points="240,209 234,197 246,197" fill="#4F46E5"/>
+
+  <!-- ── Box 3: Response Generation ── -->
+  <rect x="90" y="209" width="300" height="65" rx="7" ry="7"
+        fill="#F0FDF4" stroke="#059669" stroke-width="1.8"/>
+  <text x="240" y="235" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#064E3B">Response Generation</text>
+  <text x="240" y="257" text-anchor="middle" font-size="11" fill="#047857">(answer / confidence / explanation)</text>
+
+  <!-- Arrow 3 -->
+  <line x1="240" y1="274" x2="240" y2="299" stroke="#4F46E5" stroke-width="1.8"/>
+  <polygon points="240,306 234,294 246,294" fill="#4F46E5"/>
+
+  <!-- ── Box 4: Model Output Evaluation ── -->
+  <rect x="90" y="306" width="300" height="65" rx="7" ry="7"
+        fill="#FFFBEB" stroke="#B45309" stroke-width="1.8"/>
+  <text x="240" y="332" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#78350F">Model Output Evaluation</text>
+  <text x="240" y="354" text-anchor="middle" font-size="11" fill="#92400E">(GPT-5 and Claude Reasoning Models)</text>
+
+  <!-- Arrow 4 -->
+  <line x1="240" y1="371" x2="240" y2="396" stroke="#4F46E5" stroke-width="1.8"/>
+  <polygon points="240,403 234,391 246,391" fill="#4F46E5"/>
+
+  <!-- ── Box 5: Human Annotation ── -->
+  <rect x="90" y="403" width="300" height="75" rx="7" ry="7"
+        fill="#FFF7ED" stroke="#D97706" stroke-width="1.8"/>
+  <text x="240" y="428" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#78350F">Random Human Annotation /</text>
+  <text x="240" y="448" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#78350F">Verification</text>
+  <text x="240" y="468" text-anchor="middle" font-size="11" fill="#B45309">(correctness labels)</text>
+
+  <!-- Arrow 5 -->
+  <line x1="240" y1="478" x2="240" y2="503" stroke="#4F46E5" stroke-width="1.8"/>
+  <polygon points="240,510 234,498 246,498" fill="#4F46E5"/>
+
+  <!-- ── Box 6: Streamlit ── -->
+  <rect x="90" y="510" width="300" height="65" rx="7" ry="7"
+        fill="#F0F9FF" stroke="#0284C7" stroke-width="1.8"/>
+  <text x="240" y="536" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#0C4A6E">Streamlit Webapp Interface —</text>
+  <text x="240" y="558" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#0C4A6E">Human Evaluation</text>
+
+  <!-- Arrow 6 -->
+  <line x1="240" y1="575" x2="240" y2="600" stroke="#4F46E5" stroke-width="1.8"/>
+  <polygon points="240,607 234,595 246,595" fill="#4F46E5"/>
+
+  <!-- ── Box 7: Trust Ratings ── -->
+  <rect x="90" y="607" width="300" height="58" rx="7" ry="7"
+        fill="#FFF1F2" stroke="#E11D48" stroke-width="1.8"/>
+  <text x="240" y="641" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#881337">Participant Trust Ratings</text>
+
+  <!-- Arrow 7 -->
+  <line x1="240" y1="665" x2="240" y2="690" stroke="#4F46E5" stroke-width="1.8"/>
+  <polygon points="240,697 234,685 246,685" fill="#4F46E5"/>
+
+  <!-- ── Box 8: Statistical Analysis ── -->
+  <rect x="90" y="697" width="300" height="145" rx="7" ry="7"
+        fill="#F8FAFC" stroke="#334155" stroke-width="1.8"/>
+  <text x="240" y="722" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#0F172A">Statistical Analysis</text>
+  <text x="240" y="745" text-anchor="middle" font-size="11" fill="#334155">(ECE, ACE, MCE, Brier,</text>
+  <text x="240" y="765" text-anchor="middle" font-size="11" fill="#334155">Confidence–Correctness Correlation,</text>
+  <text x="240" y="785" text-anchor="middle" font-size="11" fill="#334155">Trust Metrics)</text>
+
+</svg>
