@@ -10,7 +10,7 @@ You will be given rows from a dataset with columns:
 Your job:
 A) Evaluate answer_only vs gold_answer and output True/False into is_correct_ans_only_<judge_modelname>
 B) Evaluate answer_conf vs gold_answer and output True/False into is_correct_ans_conf_<judge_modelname>
-C) Add judge_notes_<judge_modelname> containing short reasons for both judgments in this exact format:
+C) Add judgenotes_<judge_modelname> containing short reasons for both judgments in this exact format:
    "ans_only: <reason> | ans_conf: <reason>"
 
 Be slightly lenient, per rules below. Focus on factual correctness vs gold_answer, not style.
