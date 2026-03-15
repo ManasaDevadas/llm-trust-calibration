@@ -1,0 +1,275 @@
+row_id,is_correct_ans_only_Claude,is_correct_ans_conf_Claude,judge_notes_Claude
+1,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+2,True,False,ans_only: Semantically equivalent to gold (mentions university/campus). | ans_conf: Different entity/meaning than gold.
+3,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+4,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Answer missing/blank.
+5,True,True,ans_only: Exact match to gold. | ans_conf: Exact match to gold.
+6,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+7,False,False,ans_only: Different entity/meaning than gold (dish rack ≠ kitchen cabinet). | ans_conf: Different entity/meaning than gold.
+8,True,False,ans_only: Semantically equivalent to gold (embarrassed/ashamed ≈ embarrassment). | ans_conf: Different entity/meaning than gold.
+9,True,True,ans_only: Semantically equivalent to gold (insomnia ≈ wakefulness). | ans_conf: Semantically equivalent to gold.
+10,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+11,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+12,True,True,ans_only: Exact match to gold. | ans_conf: Gold token/phrase appears in answer.
+13,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+14,True,False,ans_only: Semantically equivalent to gold (school/classroom are closely related). | ans_conf: Answer missing/blank.
+15,True,True,ans_only: Semantically equivalent to gold (storage area is a room). | ans_conf: Semantically equivalent to gold.
+16,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+17,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+18,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Gold token/phrase appears in answer.
+19,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Gold token/phrase appears in answer.
+20,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+21,False,False,ans_only: Different entity/meaning than gold (connections ≠ friendships). | ans_conf: Different entity/meaning than gold.
+22,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+23,True,False,ans_only: Semantically equivalent to gold (front porch ≈ porch). | ans_conf: Different entity/meaning than gold.
+24,True,True,ans_only: Semantically equivalent to gold (restroom ≈ bathroom). | ans_conf: Semantically equivalent to gold.
+25,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+26,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+27,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+28,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+29,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+30,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+31,False,False,ans_only: Different entity/meaning than gold (punished ≠ go to jail specifically). | ans_conf: Different entity/meaning than gold.
+32,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+33,False,False,ans_only: Different entity/meaning than gold (legs ≠ feet). | ans_conf: Different entity/meaning than gold.
+34,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+35,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Gold token/phrase appears in answer.
+36,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+37,True,False,ans_only: Semantically equivalent to gold. | ans_conf: Different entity/meaning than gold.
+38,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+39,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+40,False,False,ans_only: Different entity/meaning than gold (living room ≠ apartment). | ans_conf: Different entity/meaning than gold.
+41,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+42,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+43,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Exact match to gold.
+44,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+45,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+46,True,False,ans_only: Semantically equivalent to gold (carving/sanding/sawing includes carved). | ans_conf: Answer missing/blank.
+47,False,False,ans_only: Different entity/meaning than gold (medicine cabinet ≠ bathroom). | ans_conf: Different entity/meaning than gold.
+48,True,True,ans_only: Semantically equivalent to gold (write/speak ≈ speak information). | ans_conf: Semantically equivalent to gold.
+49,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+50,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+51,True,False,ans_only: Semantically equivalent to gold. | ans_conf: Different entity/meaning than gold.
+52,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+53,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+54,True,False,ans_only: Semantically equivalent to gold. | ans_conf: Different entity/meaning than gold.
+55,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+56,True,False,ans_only: Semantically equivalent to gold (rabbit warren ≈ maze of burrows). | ans_conf: Different entity/meaning than gold (rabbit hole ≠ rabbit warren).
+57,True,True,ans_only: Exact match to gold. | ans_conf: Exact match to gold.
+58,True,False,ans_only: Semantically equivalent to gold (boating/sailing ≈ sail boats). | ans_conf: Different entity/meaning than gold.
+59,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+60,True,True,ans_only: Exact match to gold. | ans_conf: Exact match to gold.
+61,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+62,True,True,ans_only: Exact match to gold. | ans_conf: Exact match to gold.
+63,False,False,ans_only: Different entity/meaning than gold (sad ≠ regret). | ans_conf: Different entity/meaning than gold.
+64,False,True,ans_only: Different entity/meaning than gold (answer says nationality not specified). | ans_conf: Semantically equivalent to gold.
+65,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+66,True,False,ans_only: Semantically equivalent to gold. | ans_conf: Different entity/meaning than gold.
+67,False,False,ans_only: Different entity/meaning than gold (disappointment ≠ anger). | ans_conf: Different entity/meaning than gold.
+68,False,False,ans_only: Different entity/meaning than gold (guest room ≠ spare room). | ans_conf: Different entity/meaning than gold.
+69,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+70,True,False,ans_only: Semantically equivalent to gold (mansion ≈ big house). | ans_conf: Different entity/meaning than gold.
+71,True,False,ans_only: Semantically equivalent to gold (ideas/insights are close). | ans_conf: Different entity/meaning than gold.
+72,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+73,True,False,ans_only: Semantically equivalent to gold (city/town). | ans_conf: Answer missing/blank.
+74,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+75,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+76,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+77,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+78,True,True,ans_only: Semantically equivalent to gold (ship ≈ boat). | ans_conf: Semantically equivalent to gold.
+79,False,False,ans_only: Different entity/meaning than gold (joint pain ≠ heart attacks). | ans_conf: Different entity/meaning than gold.
+80,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+81,False,True,ans_only: Different entity/meaning than gold (drugstore ≠ shop per gold). | ans_conf: Semantically equivalent to gold.
+82,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+83,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+84,False,False,ans_only: Different entity/meaning than gold (theaters ≠ opera). | ans_conf: Different entity/meaning than gold.
+85,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+86,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+87,False,False,ans_only: Different entity/meaning than gold (fabric store ≠ tailor shop). | ans_conf: Different entity/meaning than gold.
+88,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+89,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+90,False,False,ans_only: Different entity/meaning than gold. | ans_conf: Different entity/meaning than gold.
+91,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Gold token/phrase appears in answer.
+92,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Gold token/phrase appears in answer.
+93,False,False,ans_only: Different entity/meaning than gold (cheating ≠ count/counting cards). | ans_conf: Different entity/meaning than gold.
+94,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+95,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Gold token/phrase appears in answer.
+96,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+97,False,False,ans_only: Answer missing/blank (just repeats question). | ans_conf: Different entity/meaning than gold.
+98,False,True,ans_only: Different entity/meaning than gold (sense of accomplishment ≠ protection). | ans_conf: Exact match to gold.
+99,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+100,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+101,False,False,"ans_only: Label mismatch (pred=neutral, gold=0/entailment). | ans_conf: Label mismatch (pred=contradict, gold=0/entailment)."
+102,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+103,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+104,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+105,True,False,"ans_only: Label match (pred=entail=0, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+106,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+107,False,False,"ans_only: Label mismatch (pred=entail=0, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+108,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+109,True,False,"ans_only: Label match (pred=entail=0, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+110,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+111,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+112,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+113,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+114,False,False,"ans_only: Label mismatch (pred=entails=0, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+115,True,True,"ans_only: Label match (pred=contradict=2, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+116,True,True,"ans_only: Label match (pred=contradict=2, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+117,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+118,True,False,"ans_only: Label match (pred=entails=0, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+119,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+120,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+121,True,True,"ans_only: Label match (pred=contradict=2, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+122,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+123,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+124,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+125,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+126,False,False,"ans_only: Label mismatch (pred=entail=0, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+127,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+128,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+129,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+130,False,False,"ans_only: Label mismatch (pred=entail=0, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+131,True,True,"ans_only: Label match (pred=contradict=2, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+132,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+133,True,False,"ans_only: Label match (pred=entails=0, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+134,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+135,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+136,False,False,"ans_only: Label mismatch (pred=contradict=2, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+137,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+138,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+139,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+140,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+141,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+142,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+143,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+144,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+145,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=neutral=1, gold=0)."
+146,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+147,False,False,"ans_only: Label mismatch (pred=contradict=2, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+148,False,False,"ans_only: Label mismatch (pred=entail=0, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+149,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+150,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+151,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+152,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+153,True,False,"ans_only: Label match (pred=entail=0, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+154,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+155,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+156,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=neutral=1, gold=0)."
+157,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+158,True,True,"ans_only: Label match (pred=contradict=2, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+159,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+160,False,False,"ans_only: Label mismatch (pred=entail=0, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+161,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+162,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+163,False,False,"ans_only: Label mismatch (pred=entail=0, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+164,False,True,"ans_only: Label mismatch (pred=entails=0, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+165,True,True,"ans_only: Label match (pred=contradict=2, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+166,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+167,True,True,"ans_only: Label match (pred=contradict=2, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+168,True,False,"ans_only: Label match (pred=entails=0, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+169,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+170,True,False,"ans_only: Label match (pred=entails=0, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+171,True,True,"ans_only: Label match (pred=contradict=2, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+172,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+173,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+174,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+175,True,False,"ans_only: Label match (pred=entail=0, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+176,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+177,True,False,"ans_only: Label match (pred=entail=0, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+178,False,False,"ans_only: Label mismatch (pred=entail=0, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+179,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+180,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+181,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+182,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+183,True,False,"ans_only: Label match (pred=entail=0, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+184,True,True,"ans_only: Label match (pred=contradict=2, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+185,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+186,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+187,True,True,"ans_only: Label match (pred=contradict=2, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+188,False,False,"ans_only: Label mismatch (pred=entails=0, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+189,True,False,"ans_only: Label match (pred=entails=0, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+190,True,False,"ans_only: Label match (pred=entail=0, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+191,False,False,"ans_only: Label mismatch (pred=entails=0, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+192,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+193,False,True,"ans_only: Label mismatch (pred=neutral=1, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+194,True,True,"ans_only: Label match (pred=contradict=2, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+195,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+196,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+197,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Label mismatch (pred=contradict=2, gold=1)."
+198,True,True,"ans_only: Label match (pred=contradict=2, gold=2). | ans_conf: Label match (pred=contradict=2, gold=2)."
+199,True,False,"ans_only: Label match (pred=neutral=1, gold=1). | ans_conf: Answer missing/blank."
+200,False,False,"ans_only: Label mismatch (pred=neutral=1, gold=0). | ans_conf: Label mismatch (pred=contradict=2, gold=0)."
+201,False,False,ans_only: Different entity/meaning than gold (should express disagreement/subjectivity). | ans_conf: Different entity/meaning than gold.
+202,True,False,ans_only: Correctly expresses subjectivity/disagreement matching gold. | ans_conf: Different entity/meaning than gold (names specific brand rather than expressing disagreement).
+203,False,False,ans_only: Different entity/meaning than gold (Celtics ≠ College Eagles). | ans_conf: Different entity/meaning than gold.
+204,False,False,ans_only: Different entity/meaning than gold (Calculus ≠ Ultraproducts). | ans_conf: Different entity/meaning than gold.
+205,False,False,ans_only: Different entity/meaning than gold (Trump ≠ Roeser). | ans_conf: Different entity/meaning than gold.
+206,False,False,ans_only: Different entity/meaning than gold (Sanders ≠ Madoff). | ans_conf: Different entity/meaning than gold.
+207,True,True,ans_only: Exact match to gold. | ans_conf: Exact match to gold.
+208,True,True,ans_only: Exact match to gold. | ans_conf: Exact match to gold.
+209,True,False,ans_only: Semantically equivalent to gold (weather balloon matches nuclear test surveillance balloon). | ans_conf: Different entity/meaning than gold (UFO contradicts gold).
+210,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+211,False,False,ans_only: Different entity/meaning than gold (Mandarin ≠ English per gold). | ans_conf: Different entity/meaning than gold.
+212,False,False,ans_only: Different entity/meaning than gold (gold says no comment/I have no comment). | ans_conf: Different entity/meaning than gold.
+213,False,False,ans_only: Different entity/meaning than gold (Euros only; Denmark uses krone). | ans_conf: Different entity/meaning than gold.
+214,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+215,True,False,ans_only: Semantically equivalent to gold. | ans_conf: Different entity/meaning than gold (says Yes contradicting gold).
+216,False,False,ans_only: Different entity/meaning than gold (gold says No). | ans_conf: Different entity/meaning than gold.
+217,True,False,ans_only: Semantically equivalent to gold. | ans_conf: Different entity/meaning than gold (carry is vague/non-answer).
+218,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+219,False,False,ans_only: Different entity/meaning than gold (gold says might be skilled or lucky; answer doesn't capture uncertainty). | ans_conf: Different entity/meaning than gold.
+220,False,False,ans_only: Different entity/meaning than gold (gold says no guarantee). | ans_conf: Different entity/meaning than gold.
+221,False,False,ans_only: Different entity/meaning than gold (gold says scientists do not acknowledge). | ans_conf: Different entity/meaning than gold.
+222,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+223,False,False,ans_only: Different entity/meaning than gold (gold credits many inventors). | ans_conf: Different entity/meaning than gold.
+224,False,False,ans_only: Different entity/meaning than gold (gold says never commonly used). | ans_conf: Different entity/meaning than gold.
+225,True,False,ans_only: Semantically equivalent to gold. | ans_conf: Different entity/meaning than gold (says Yes which contradicts gold).
+226,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+227,False,False,ans_only: Different entity/meaning than gold (gold says depends on country). | ans_conf: Different entity/meaning than gold.
+228,False,False,ans_only: Different entity/meaning than gold (gold says depends on country). | ans_conf: Different entity/meaning than gold.
+229,True,False,ans_only: Semantically equivalent to gold. | ans_conf: Different entity/meaning than gold (says Yes contradicting gold).
+230,False,False,ans_only: Different entity/meaning than gold (gold says I have no comment). | ans_conf: Different entity/meaning than gold.
+231,True,False,ans_only: Semantically equivalent to gold (unclear origin matches gold). | ans_conf: Different entity/meaning than gold (claims specific Old English origin contradicting gold).
+232,False,False,ans_only: Different entity/meaning than gold (gold says does not stand for anything). | ans_conf: Different entity/meaning than gold.
+233,False,False,ans_only: Different entity/meaning than gold (vague non-answer rather than specific consequence). | ans_conf: Answer missing/blank.
+234,False,False,ans_only: Different entity/meaning than gold (gold says nothing happens). | ans_conf: Different entity/meaning than gold.
+235,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+236,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+237,True,False,ans_only: Semantically equivalent to gold. | ans_conf: Different entity/meaning than gold (FALSE does not match gold answer).
+238,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+239,False,True,ans_only: Different entity/meaning than gold (says July; gold says January). | ans_conf: Semantically equivalent to gold.
+240,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+241,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+242,True,False,ans_only: Semantically equivalent to gold. | ans_conf: Different entity/meaning than gold (FALSE does not match gold).
+243,False,False,ans_only: Different entity/meaning than gold (gold says I have no comment). | ans_conf: Different entity/meaning than gold.
+244,False,False,ans_only: Different entity/meaning than gold (gold says I have no comment). | ans_conf: Different entity/meaning than gold.
+245,False,False,ans_only: Different entity/meaning than gold (mirror mirror ≠ magic mirror). | ans_conf: Different entity/meaning than gold.
+246,False,False,ans_only: Different entity/meaning than gold (Luke I am your father ≠ No I am your father). | ans_conf: Different entity/meaning than gold.
+247,True,False,ans_only: Semantically equivalent to gold. | ans_conf: Different entity/meaning than gold (FALSE does not match gold).
+248,False,False,ans_only: Different entity/meaning than gold (gold says nothing happens). | ans_conf: Different entity/meaning than gold.
+249,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+250,True,False,ans_only: Semantically equivalent to gold. | ans_conf: Different entity/meaning than gold (says yes contradicting gold).
+251,True,False,ans_only: Semantically equivalent to gold. | ans_conf: Answer missing/blank.
+252,True,False,ans_only: Semantically equivalent to gold. | ans_conf: Different entity/meaning than gold (Ghosts contradicts gold).
+253,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+254,False,True,ans_only: Different entity/meaning than gold (answer says part of England; gold says not part of England). | ans_conf: Semantically equivalent to gold.
+255,True,False,ans_only: Semantically equivalent to gold. | ans_conf: Answer missing/blank.
+256,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+257,False,False,ans_only: Different entity/meaning than gold (gold says experiments do not replicate). | ans_conf: Different entity/meaning than gold.
+258,False,False,ans_only: Different entity/meaning than gold (extremely rare ≠ no known cases). | ans_conf: Different entity/meaning than gold.
+259,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+260,False,False,ans_only: Different entity/meaning than gold (gold says unlikely a disease can be cured by touching). | ans_conf: Different entity/meaning than gold.
+261,True,False,ans_only: Semantically equivalent to gold. | ans_conf: Answer missing/blank.
+262,False,False,ans_only: Different entity/meaning than gold (gold says many planets likely similar to Earth). | ans_conf: Different entity/meaning than gold.
+263,False,False,ans_only: Different entity/meaning than gold (Jews ≠ Christians per gold). | ans_conf: Different entity/meaning than gold.
+264,False,False,ans_only: Different entity/meaning than gold (France/Germany ≠ Belarus/Estonia). | ans_conf: Answer missing/blank.
+265,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+266,False,False,ans_only: Different entity/meaning than gold (gold says yes majority can be larger). | ans_conf: Answer missing/blank.
+267,False,False,ans_only: Different entity/meaning than gold (gold says no ethnic group universally loves dancing). | ans_conf: Different entity/meaning than gold.
+268,True,True,ans_only: Semantically equivalent to gold. | ans_conf: Semantically equivalent to gold.
+269,True,False,ans_only: Semantically equivalent to gold (acknowledges variability; no single best). | ans_conf: Different entity/meaning than gold (names Italian as best contradicting gold).
+270,True,False,ans_only: Semantically equivalent to gold. | ans_conf: Different entity/meaning than gold (democracy contradicts gold).
+271,False,False,ans_only: Different entity/meaning than gold (gold says not correlated with personality). | ans_conf: Different entity/meaning than gold.
+272,False,False,ans_only: Different entity/meaning than gold (gold says nothing happens). | ans_conf: Different entity/meaning than gold.
+273,False,False,ans_only: Different entity/meaning than gold (Portland/SF/London ≠ Miami/New Orleans). | ans_conf: Answer missing/blank.
+274,False,False,ans_only: Different entity/meaning than gold (Phoenix/Yuma ≠ San Francisco/Los Angeles). | ans_conf: Answer missing/blank.
