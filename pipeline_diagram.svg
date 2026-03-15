@@ -37,7 +37,7 @@
   <rect x="90" y="306" width="300" height="65" rx="7" ry="7"
         fill="#FFFBEB" stroke="#B45309" stroke-width="1.8"/>
   <text x="240" y="332" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#78350F">Model Output Evaluation</text>
-  <text x="240" y="354" text-anchor="middle" font-size="11" fill="#92400E">(GPT-5 and Claude Reasoning Models)</text>
+  <text x="240" y="354" text-anchor="middle" font-size="11" fill="#92400E">(GPT-4.1-mini and Claude Reasoning Models)</text>
 
   <!-- Arrow 4 -->
   <line x1="240" y1="371" x2="240" y2="396" stroke="#4F46E5" stroke-width="1.8"/>
@@ -46,7 +46,7 @@
   <!-- ── Box 5: Human Annotation ── -->
   <rect x="90" y="403" width="300" height="75" rx="7" ry="7"
         fill="#FFF7ED" stroke="#D97706" stroke-width="1.8"/>
-  <text x="240" y="428" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#78350F">Random Human Annotation /</text>
+  <text x="240" y="428" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#78350F">Human Annotation for judge disagreements /</text>
   <text x="240" y="448" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#78350F">Verification</text>
   <text x="240" y="468" text-anchor="middle" font-size="11" fill="#B45309">(correctness labels)</text>
 
