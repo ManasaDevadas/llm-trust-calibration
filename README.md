@@ -462,6 +462,3 @@ user_responses.csv
         ▼
 Calibration Metrics + Statistical Analysis
 ```
-
-
-If you'd like, I can also show you **one small addition (about 6 lines)** that would make your repo look like a **NeurIPS / ACL research repo** — it's something almost no thesis repos include but reviewers immediately recognize as professional.
